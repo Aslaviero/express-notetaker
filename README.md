@@ -23,3 +23,21 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+## Software used:
+
+-Node.js
+-Express.js
+-RESTful API
+-HTML 5
+-CSS 3
+-Javascript
+-Bootstrap 5
+-VS Code
+-Heroku
+
+## Description:
+This project uses Express.js to build an app that will let you create and save notes from a JSON file.
+
+Video of project: 
+Link to github: 
+Link to Heroku:
