@@ -35,6 +35,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Description:
 This project uses Express.js to build an app that will let you create and save notes from a JSON file.
 
-Video of project: 
-Link to github: 
-Link to Heroku:
+Video of project: https://drive.google.com/file/d/1_o2ojkDGR44-3SWoMqXCcyH1v6YAPxYq/view
+Link to github: https://github.com/Aslaviero/express-notetaker
+Link to Heroku: https://serene-ravine-00085.herokuapp.com/ 
